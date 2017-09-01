@@ -9,9 +9,6 @@
 
 <body>
  <div>오오오</div>
- <h1>난나눈누</h1>
- <div class="article">
- 	<h1>문단1</h1>
- </div>
+ 
 </body>
 </html>
